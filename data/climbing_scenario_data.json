@@ -1,0 +1,198 @@
+{
+    "vitals": [
+        {
+            "time": 0,
+            "heartRate": 93,
+            "rateWater": 73.4,
+            "bodyTemp": 97.8
+        },
+        {
+            "time": 8500,
+            "heartRate": 107,
+            "rateWater": 93.7,
+            "bodyTemp": 97.5
+        },
+        {
+            "time": 9000,
+            "heartRate": 120,
+            "rateWater": 114.3,
+            "bodyTemp": 97.35
+        },
+        {
+            "time": 9500,
+            "heartRate": 138,
+            "rateWater": 117.5,
+            "bodyTemp": 97.3
+        },
+        {
+            "time": 13000,
+            "heartRate": 139,
+            "rateWater": 110.3,
+            "bodyTemp": 97.25
+        },
+        {
+            "time": 13100,
+            "heartRate": 138,
+            "rateWater": 103.8,
+            "bodyTemp": 97.3
+        },
+        {
+            "time": 17000,
+            "heartRate": 124,
+            "rateWater": 83.2,
+            "bodyTemp": 97.6
+        },
+        {
+            "time": 20000,
+            "heartRate": 120,
+            "rateWater": 75.9,
+            "bodyTemp": 97.5
+        }
+    ],
+    "climbing": [
+        {
+            "time": 0,
+            "points": 3,
+            "elevationMax": 300,
+            "elevation": 207.4,
+            "rigidity": 987,
+            "wetness": 0.09
+        },
+        {
+            "time": 1000,
+            "points": 4,
+            "elevationMax": 300,
+            "elevation": 206.85,
+            "rigidity": 965,
+            "wetness": 0.11
+        },
+        {
+            "time": 2000,
+            "points": 3,
+            "elevationMax": 300,
+            "elevation": 206.85,
+            "rigidity": 998,
+            "wetness": 0.125
+        },
+        {
+            "time": 3000,
+            "points": 4,
+            "elevationMax": 300,
+            "elevation": 206.31,
+            "rigidity": 942.3,
+            "wetness": 0.13
+        },
+        {
+            "time": 4000,
+            "points": 3,
+            "elevationMax": 300,
+            "elevation": 206.31,
+            "rigidity": 954,
+            "wetness": 0.145
+        },
+        {
+            "time": 5000,
+            "points": 4,
+            "elevationMax": 300,
+            "elevation": 205.76,
+            "rigidity": 955.6,
+            "wetness": 0.15
+        },
+        {
+            "time": 8000,
+            "points": 4,
+            "elevationMax": 300,
+            "elevation": 205.76,
+            "rigidity": 955.6,
+            "wetness": 0.23
+        },
+        {
+            "time": 9500,
+            "points": 4,
+            "elevationMax": 300,
+            "elevation": 205.76,
+            "rigidity": 955.6,
+            "wetness": 0.87
+        },
+        {
+            "time": 9550,
+            "points": 3,
+            "elevationMax": 300,
+            "elevation": 200.6,
+            "rigidity": 955.6,
+            "wetness": 0.93
+        },
+        {
+            "time": 9600,
+            "points": 2,
+            "elevationMax": 300,
+            "elevation": 197.8,
+            "rigidity": 955.6,
+            "wetness": 0.97
+        },
+        {
+            "time": 9650,
+            "points": 0,
+            "elevationMax": 300,
+            "elevation": 197.8,
+            "rigidity": 603.7,
+            "wetness": 0.91
+        },
+        {
+            "time": 13000,
+            "points": 0,
+            "elevationMax": 300,
+            "elevation": 165.2,
+            "rigidity": 736.4,
+            "wetness": 0.86
+        },
+        {
+            "time": 13050,
+            "points": 1,
+            "elevationMax": 300,
+            "elevation": 165.2,
+            "rigidity": 736.4,
+            "wetness": 0.73
+        },
+        {
+            "time": 13100,
+            "points": 4,
+            "elevationMax": 300,
+            "elevation": 165.2,
+            "rigidity": 736.4,
+            "wetness": 0.65
+        },
+        {
+            "time": 17000,
+            "points": 4,
+            "elevationMax": 300,
+            "elevation": 165.2,
+            "rigidity": 736.4,
+            "wetness": 0.24
+        },
+        {
+            "time": 18000,
+            "points": 3,
+            "elevationMax": 300,
+            "elevation": 165.2,
+            "rigidity": 736.4,
+            "wetness": 0.22
+        },
+        {
+            "time": 19000,
+            "points": 4,
+            "elevationMax": 300,
+            "elevation": 164.6,
+            "rigidity": 748.5,
+            "wetness": 0.17
+        },
+        {
+            "time": 20000,
+            "points": 4,
+            "elevationMax": 300,
+            "elevation": 164.6,
+            "rigidity": 748.5,
+            "wetness": 0.098
+        }
+    ]
+}

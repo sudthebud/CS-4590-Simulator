@@ -1,0 +1,114 @@
+{
+    "vitals": [
+        {
+            "time": 0,
+            "heartRate": 80,
+            "rateWater": 5,
+            "bodyTemp": 97.4
+        },
+        {
+            "time": 2000,
+            "heartRate": 90,
+            "rateWater": 5.5,
+            "bodyTemp": 97
+        },
+        {
+            "time": 7000,
+            "heartRate": 100,
+            "rateWater": 5,
+            "bodyTemp": 96.7
+        },
+        {
+            "time": 10000,
+            "heartRate": 102,
+            "rateWater": 5,
+            "bodyTemp": 96.5
+        },
+        {
+            "time": 12000,
+            "heartRate": 104,
+            "rateWater": 5.24,
+            "bodyTemp": 96.4
+        },
+        {
+            "time": 12250,
+            "heartRate": 143,
+            "rateWater": 5.03,
+            "bodyTemp": 97
+        },
+        {
+            "time": 16500,
+            "heartRate": 140,
+            "rateWater": 5.43,
+            "bodyTemp": 98
+        },
+        {
+            "time": 18000,
+            "heartRate": 122,
+            "rateWater": 5.33,
+            "bodyTemp": 97.5
+        },
+        {
+            "time": 20000,
+            "heartRate": 103,
+            "rateWater": 5.01,
+            "bodyTemp": 96.8
+        }
+    ],
+    "crawling": [
+        {
+            "time": 0,
+            "space": 8.64,
+            "pressure": 22.3,
+            "narrow": 0.07
+        },
+        {
+            "time": 2000,
+            "space": 7.89,
+            "pressure": 25.7,
+            "narrow": 0.13
+        },
+        {
+            "time": 7000,
+            "space": 4.32,
+            "pressure": 31.2,
+            "narrow": 0.35
+        },
+        {
+            "time": 10000,
+            "space": 3.65,
+            "pressure": 43.8,
+            "narrow": 0.59
+        },
+        {
+            "time": 12000,
+            "space": 1.42,
+            "pressure": 60.5,
+            "narrow": 0.74
+        },
+        {
+            "time": 12250,
+            "space": 0.44,
+            "pressure": 298.6,
+            "narrow": 0.12
+        },
+        {
+            "time": 16500,
+            "space": 0.35,
+            "pressure": 299.3,
+            "narrow": 0.09
+        },
+        {
+            "time": 18000,
+            "space": 1.95,
+            "pressure": 32.4,
+            "narrow": 0
+        },
+        {
+            "time": 20000,
+            "space": 3.21,
+            "pressure": 15.6,
+            "narrow": 0
+        }
+    ]
+}

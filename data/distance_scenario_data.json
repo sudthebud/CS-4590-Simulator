@@ -1,0 +1,233 @@
+{
+    "vitals": [
+        {
+            "time": 0,
+            "heartRate": 98,
+            "rateWater": 5.62,
+            "bodyTemp": 98.2
+        },
+        {
+            "time": 4000,
+            "heartRate": 96,
+            "rateWater": 5.43,
+            "bodyTemp": 98.3
+        },
+        {
+            "time": 8000,
+            "heartRate": 95,
+            "rateWater": 5.51,
+            "bodyTemp": 98.0
+        },
+        {
+            "time": 10000,
+            "heartRate": 90,
+            "rateWater": 5.49,
+            "bodyTemp": 94.7
+        },
+        {
+            "time": 15000,
+            "heartRate": 82,
+            "rateWater": 5.41,
+            "bodyTemp": 92.2
+        },
+        {
+            "time": 17000,
+            "heartRate": 87,
+            "rateWater": 5.49,
+            "bodyTemp": 95.6
+        },
+        {
+            "time": 20000,
+            "heartRate": 92,
+            "rateWater": 5.54,
+            "bodyTemp": 97.2
+        }
+    ],
+    "distance": [
+        [
+            {
+                "time": 0,
+                "magnitude": 50.7,
+                "euler_x": 45.7,
+                "euler_y": 189.2,
+                "euler_z": 30
+            },
+            {
+                "time": 0,
+                "magnitude": 320.8,
+                "euler_x": 194.2,
+                "euler_y": 90.7,
+                "euler_z": 210.5
+            },
+            {
+                "time": 0,
+                "magnitude": 941.6,
+                "euler_x": 345.8,
+                "euler_y": 45.1,
+                "euler_z": 189.4
+            },
+            {
+                "time": 0,
+                "magnitude": 1548.3,
+                "euler_x": 1.6,
+                "euler_y": 15.4,
+                "euler_z": 78.2
+            },
+            {
+                "time": 0,
+                "magnitude": 1109.7,
+                "euler_x": 271.8,
+                "euler_y": 81.4,
+                "euler_z": 345.1
+            }
+        ],
+        [
+            {
+                "time": 2000,
+                "magnitude": 50.7,
+                "euler_x": 225.7,
+                "euler_y": 369.2,
+                "euler_z": 210
+            },
+            {
+                "time": 2000,
+                "magnitude": 320.8,
+                "euler_x": 374.2,
+                "euler_y": 270.7,
+                "euler_z": 390.5
+            },
+            {
+                "time": 2000,
+                "magnitude": 941.6,
+                "euler_x": 525.8,
+                "euler_y": 255.1,
+                "euler_z": 369.4
+            },
+            {
+                "time": 2000,
+                "magnitude": 1548.3,
+                "euler_x": 181.6,
+                "euler_y": 195.4,
+                "euler_z": 258.2
+            },
+            {
+                "time": 2000,
+                "magnitude": 1109.7,
+                "euler_x": 451.8,
+                "euler_y": 261.4,
+                "euler_z": 525.1
+            }
+        ],
+        [
+            {
+                "time": 4000,
+                "magnitude": 50.7,
+                "euler_x": 405.7,
+                "euler_y": 549.2,
+                "euler_z": 390
+            },
+            {
+                "time": 4000,
+                "magnitude": 320.8,
+                "euler_x": 554.2,
+                "euler_y": 450.7,
+                "euler_z": 570.5
+            },
+            {
+                "time": 4000,
+                "magnitude": 941.6,
+                "euler_x": 705.8,
+                "euler_y": 435.1,
+                "euler_z": 529.4
+            },
+            {
+                "time": 4000,
+                "magnitude": 1548.3,
+                "euler_x": 361.6,
+                "euler_y": 375.4,
+                "euler_z": 438.2
+            },
+            {
+                "time": 4000,
+                "magnitude": 1109.7,
+                "euler_x": 631.8,
+                "euler_y": 441.4,
+                "euler_z": 705.1
+            }
+        ],
+        [
+            {
+                "time": 4001,
+                "magnitude": 50.7,
+                "euler_x": 45.7,
+                "euler_y": 189.2,
+                "euler_z": 30
+            },
+            {
+                "time": 4001,
+                "magnitude": 320.8,
+                "euler_x": 194.2,
+                "euler_y": 90.7,
+                "euler_z": 210.5
+            },
+            {
+                "time": 4001,
+                "magnitude": 941.6,
+                "euler_x": 345.8,
+                "euler_y": 45.1,
+                "euler_z": 189.4
+            },
+            {
+                "time": 4001,
+                "magnitude": 1548.3,
+                "euler_x": 1.6,
+                "euler_y": 15.4,
+                "euler_z": 78.2
+            },
+            {
+                "time": 4001,
+                "magnitude": 1109.7,
+                "euler_x": 271.8,
+                "euler_y": 81.4,
+                "euler_z": 345.1
+            }
+        ],
+        [
+            {
+                "time": 20000,
+                "magnitude": 236.2,
+                "euler_x": 60.1,
+                "euler_y": 215.9,
+                "euler_z": 47.2
+            },
+            {
+                "time": 20000,
+                "magnitude": 500.2,
+                "euler_x": 160.7,
+                "euler_y": 54.6,
+                "euler_z": 181.3
+            },
+            {
+                "time": 20000,
+                "magnitude": 1347.8,
+                "euler_x": 359.1,
+                "euler_y": 78.5,
+                "euler_z": 136.3
+            },
+            {
+                "time": 20000,
+                "magnitude": 1371.6,
+                "euler_x": 4.3,
+                "euler_y": 27.4,
+                "euler_z": 145.5
+            },
+            {
+                "time": 20000,
+                "magnitude": 897.4,
+                "euler_x": 243.6,
+                "euler_y": 56.1,
+                "euler_z": 317.8
+            }
+        ]
+    ]
+}
